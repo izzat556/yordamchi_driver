@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAFPlKG9GpiVRP7DMM_u1fcm4Zm7MenwCo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>134955677290</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mgovaward</string>
+	<key>PROJECT_ID</key>
+	<string>myfluttermgovaward</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myfluttermgovaward.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:134955677290:ios:b8fb4769f0cfa276543c13</string>
+	<key>DATABASE_URL</key>
+	<string>https://myfluttermgovaward-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

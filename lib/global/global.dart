@@ -1,0 +1,12 @@
+import 'dart:async';
+import 'package:mgovaward/models/user_model.dart';
+import 'package:assets_audio_player/assets_audio_player.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:geolocator/geolocator.dart';
+final FirebaseAuth fAuth=FirebaseAuth.instance;
+User? currentFireBaseUser;
+UserModel? userModelCurrentInfo;
+StreamSubscription<Position>? streamSubscription;
+AssetsAudioPlayer audioPLayer=AssetsAudioPlayer();
+List list = [];
+List list1 = [];
